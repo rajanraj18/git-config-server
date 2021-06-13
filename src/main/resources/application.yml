@@ -8,8 +8,6 @@ spring:
       server:
         git:
           uri: https://github.com/rajanraj18/configuration-server
-          #username: xzrajanraj@gmail.com 
-          #password: iamrajan@123
           default-label: main
           search-paths:
           - '*service*'
